@@ -1,0 +1,26 @@
+nav{
+  background-color: #024029;
+  color: #A3BFB7;
+}
+
+nav a{
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+nav a:hover{
+  color: #ffffff;
+  opacity:1;
+  transition: 0.3s;
+}
+
+
+
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}
+// this is a white icon with 50% opacity
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}

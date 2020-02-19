@@ -18,33 +18,20 @@ Membership is due for renewal on the 1st of September each year.
 </p>
 
 
-<div class="pay-pal">
-    <div class="figure-content HTMLElement">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name ="cmd" value="_s-xclick">
-        <input type="hidden" name ="hosted_button_id" value="Y9Q5KT6BG8J9E">
-        <table>
-            <tbody>
-                <tr>
-                    <td>
-                        <input type = "hidden" name="on0" value="Options">
-                        Options
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <select name="os0">
+      
+
+
+    <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin: 20px 0px 20px 0px;">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="donations@your-web-domain.com">
+<input type="hidden" name="item_name" value="Donation for website">
+<input type="hidden" name="currency_code" value="USD">
+<select name="amount" style="margin: 0px 0px 11px 0px;">
+                            <option selected value="10.00">Please Select Amount</option>
                             <option value="Single Membership">Single Membership 20.00 EUR</option>
                             <option value="School Membership">School Membership 30.00 EUR</option>
                             <option value="Student Membership">Student Membership 5.00 EUR</option>
                             <option value="Retired Membership">Retired Membership 5.00 EUR</option>
-                        </select>
-                    </td>
-                </tr>
-            </tbody>
-        <table>
-        <input type="hidden" name = "currency_code" value="EUR">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name = "submit"
-        alt="PayPal - The Safer, easier way to pay online!">
-    </div>
-</div>
+</select><br>
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="PP-submit" alt="Make a donation with PayPal"><br>
+</form>
