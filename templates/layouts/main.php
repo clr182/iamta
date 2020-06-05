@@ -13,51 +13,6 @@
 
 <body>
 
-
-<!--
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-  <a class="navbar-brand" href='<?=APP_BASE_URL?>/'>IAMTA</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarText">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href='<?=APP_BASE_URL?>/'>Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href='<?=APP_BASE_URL?>/awards'>Awards</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href='<?=APP_BASE_URL?>/events'>Events</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href='<?=APP_BASE_URL?>/membership'>Membership</a>
-      </li>
-
-      <li>
-    <div class="dropdown">
-      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Personal asset loans</a>
-      <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">            
-        <li><a href="#">asds</a></li>
-        <li class="divider"></li>
-      </ul>
-    </div>   
-    </li>
-    <li>Payday loans</li>
-
-    </ul>
-    <span class="navbar-text">
-      Irisih Applied Mathematics Teachers' Association
-    </span>
-  </div>
-</nav>
-  <!-- NAV END -->
-
-
-
-
-
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   
   <a class="navbar-brand" href='<?=APP_BASE_URL?>/'>
@@ -110,21 +65,6 @@
       Irish Applied Mathematics Teachers' Association
     </span>
 </nav>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <section class = "">
 <div class= "container-fluid">
